@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.liveinterfaces.org
-title: ICLI
-#email: can be found here: http://www.sussex.ac.uk/profiles/164902
-author: Thor Magnusson
-description: > # "The biennial International Conference on Live Interfaces explores the use of performative interfaces across the arts, including music, the visual arts, performance art, dance, magic, comedy, robotics and games. The scope is highly interdisciplinary but with a strong focus on interface technologies in live artistic performance. These could be analog, electronic, digital or post-digital. Topics of liveness, immediacy, presence (and tele-presence), mediation, collaboration and timing or flow are problematised in order to gain a deeper understanding of the role contemporary media and interface technologies play in human expression"
+url: https://ecila.github.io/HAL/
+title: HAL
+#email: 
+author: Alice Eldridge
+description: > # "Humanising Algorithmic Listening. An AHRC network aiming to imagine the future of machine listening in the arts and humanities"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,12 +22,12 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/liveinterfaces
-  - title: facebook
-    url: https://www.facebook.com/liveinterfaces
+    url: https://twitter.com/algolisten
+  - title: soundcloud
+    url: https://soundcloud.com
 # ----------------------- #
 #     - title: github
-#    url: https://github.com/thormagnusson/liveinterfaces
+#    url: https://github.com/ecila/HAL
 # ----------------------- #
 
 
