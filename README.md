@@ -1,17 +1,12 @@
-# The 2016 International Conference on Live Interfaces
+# Humanising Algorithmic Listening
 
-University of Sussex
+AHRC Funded Network
 
-## Organisation team
-
-Thor Magnusson (general chair)  
-Chris Kiefer (scientific chair)  
-Alice Eldridge (artistic chair)  
-Cecile Chevalier (installations chair)  
-Paul McConnell (workshops chair)  
-Thanos Polymeneas Liontiris (performance organiser)  
-Joe Watson (doctoral colloquium organiser)  
-David Palmer (design)  
+## Organisers
+Alice Eldridge - Sussex Humanities Lab, University of Sussex
+Paul Stapleton - Sonic Arts Research Centres - Queen's University Belfast
 
 
-Brighton, June 29th to August 3rd.
+
+
+Feb 2017 - Jan 2018
