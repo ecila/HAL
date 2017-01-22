@@ -4,6 +4,7 @@ AHRC Funded Network
 
 ## Organisers
 Alice Eldridge - Sussex Humanities Lab, University of Sussex
+
 Paul Stapleton - Sonic Arts Research Centres - Queen's University Belfast
 
 
